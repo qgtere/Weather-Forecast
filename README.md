@@ -48,4 +48,4 @@ We develop a weather application using a third-party API which has an HTML and C
 
 ## Link to the application
 
-* [Check the weather here!](https://qgtere.github.io/)
+* [Check the weather here!](https://qgtere.github.io/Weather-Forecast/)
