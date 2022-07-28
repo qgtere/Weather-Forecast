@@ -1,0 +1,67 @@
+:root {
+    --headerblue: #0854AF;
+    --darkblue: #3A7ED0;
+    --lightblue: #C5DFFF;
+    --lightyellow: #F7E509;
+    --white: #FFFFFF;
+    --black: #000000;
+    --green: #50AB19;
+    --yellow: #DDCE1B;
+    --orange: #FF840A;
+    --red: #F90303;
+    --purple: #883EED;
+    
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+    background-color: var(--headerblue);
+    color: var(--white);
+}
+
+.UVgreen {
+    background-color: var(--green);
+    color: var(--white);
+    border-radius: 3px;    
+}
+
+.UVyellow {
+    background-color: var(--yellow);
+    color: var(--white);
+    border-radius: 3px;    
+}
+
+.UVorange {
+    background-color: var(--orange);
+    color: var(--white);
+    border-radius: 3px;    
+}
+
+.UVred {
+    background-color: var(--red);
+    color: var(--white);
+    border-radius: 3px;    
+}
+
+.UVpurple {
+    background-color: var(--purple);
+    color: var(--white);
+    border-radius: 3px;    
+}
+
+.weatherBox {    
+    border: 1px solid var(--black);
+    padding: 10px;
+}
+
+.custom-card {
+    background-color: var(--white);
+    border-radius: 3px;
+}
+
+.custom-bg {
+    background-image: linear-gradient(var(--darkblue), var(--lightblue));
+}
